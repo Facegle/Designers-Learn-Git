@@ -3,3 +3,6 @@ a.txt
 bbb
 test
 grace
+哈哈哈
+
+你好
